@@ -20,3 +20,4 @@ The dataset comprises 768 samples and 8 features, aiming to predict two real val
 | Y1            | Target  | Continuous| Heating Load               |
 | Y2            | Target  | Continuous| Cooling Load               |
 
+For more information on the data, please visit: https://archive.ics.uci.edu/dataset/242/energy+efficiency
