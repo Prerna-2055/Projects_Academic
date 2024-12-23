@@ -8,7 +8,7 @@ The data is from a study on assessment of the heating load and cooling load requ
 The dataset comprises 768 samples and 8 features, aiming to predict two real valued responses: heating load and cooling load. 
 
 
-Variable_Name	  Role	      Type	        Description	Units	
+Variable_Name |	  Role	 |     Type	  |      Description	Units	
 X1	            Feature	    Continuous	  Relative Compactness
 X2	            Feature	    Continuous	  Surface Area
 X3	            Feature	    Continuous	  Wall Area		
