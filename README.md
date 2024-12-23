@@ -1,4 +1,4 @@
-# Project Title: Predicting Energy Efficiency (heating load and cooling load) of Building given the building characteristics 
+# Tpoic: Predicting Energy Efficiency (heating load and cooling load) of Building given the building characteristics 
 
 The data is from a study on assessment of the heating load and cooling load requirements for buildings, given the building parameters.
 - The energy analysis is performed using 12 different building shapes simulated in Ecotect. 
